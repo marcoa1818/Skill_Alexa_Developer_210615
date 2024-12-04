@@ -12,7 +12,7 @@
 ### HISTORIAL DE PRÁCTICAS:
 |No.|Nombre|Potenciador|Estatus|
 |--|--|--|--|
-|25|Skill Alexa|10|Activa|
+|7|Skill de Alexa|10|Activa|
 
 <br>
 <h2> Objetivo </h2>
