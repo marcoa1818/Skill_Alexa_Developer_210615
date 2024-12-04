@@ -52,10 +52,10 @@ Desarrollar una skill para Alexa que permita a los usuarios acceder de manera se
 | <img src="https://github.com/user-attachments/assets/f4c69fc1-fa14-4a6b-b439-a94d2588d771"  width="300" height="100" style="margin-bottom: 5px;"> |Para culminar, realiza una pregunta para poder interactuar con tu Skill de Alexa que haz realizado.|
 
 ## Resultados
-
 ![Captura de pantalla 2024-12-04 122540](https://github.com/user-attachments/assets/0023f463-764c-48c5-9056-7cf425b266ba)
 
 ##
+![clima](https://github.com/user-attachments/assets/9c966891-3d52-445b-9022-6b2d0b482243)
 
 
 
