@@ -9,7 +9,7 @@
 <h2 align="center"> Skill_Alexa_Developer_210820 </h2>
 <h2 align="center"> Por: Marco Antonio Morales Rivera </h2>
 <br>
-### HISTORIAL DE PRÁCTICAS:
+## HISTORIAL DE PRÁCTICAS:
 |No.|Nombre|Potenciador|Estatus|
 |--|--|--|--|
 |7|Skill de Alexa|10|Activa|
