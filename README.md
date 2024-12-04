@@ -9,6 +9,12 @@
 <h2 align="center"> Skill_Alexa_Developer_210820 </h2>
 <h2 align="center"> Por: Marco Antonio Morales Rivera </h2>
 <br>
+### HISTORIAL DE PRÁCTICAS:
+|No.|Nombre|Potenciador|Estatus|
+|--|--|--|--|
+|25|Skill Alexa|10|Activa|
+
+<br>
 <h2> Objetivo </h2>
 Desarrollar una skill para Alexa que permita a los usuarios acceder de manera sencilla a información o servicios mediante comandos de voz, mejorando su experiencia al automatizar tareas, brindar entretenimiento o resolver necesidades específicas.
 <br>
