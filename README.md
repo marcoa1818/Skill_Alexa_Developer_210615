@@ -6,8 +6,8 @@
 <br>
 
 <h2 align="center"> Desarrollo Móvil Integral </h2>
-<h2 align="center"> Skill_Alexa_Developer_210820 </h2>
-<h2 align="center"> Por: Marco Antonio Morales Rivera </h2>
+<h2 align="center"> Skill_Alexa_Developer_210615 </h2>
+<h2 align="center"> Elaborado por: Marco Antonio Morales Rivera </h2>
 
 <br>
 <h2> Objetivo </h2>
