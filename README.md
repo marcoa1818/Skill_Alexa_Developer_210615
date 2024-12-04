@@ -8,11 +8,6 @@
 <h2 align="center"> Desarrollo Móvil Integral </h2>
 <h2 align="center"> Skill_Alexa_Developer_210820 </h2>
 <h2 align="center"> Por: Marco Antonio Morales Rivera </h2>
-<br>
-## HISTORIAL DE PRÁCTICAS:
-|No.|Nombre|Potenciador|Estatus|
-|--|--|--|--|
-|7|Skill de Alexa|10|Activa|
 
 <br>
 <h2> Objetivo </h2>
@@ -63,6 +58,10 @@ Desarrollar una skill para Alexa que permita a los usuarios acceder de manera se
 ##
 ![clima](https://github.com/user-attachments/assets/9c966891-3d52-445b-9022-6b2d0b482243)
 
+## HISTORIAL DE PRÁCTICAS:
+|No.|Nombre|Potenciador|Estatus|
+|--|--|--|--|
+|7|Skill de Alexa|10|Activa|
 
 
 
